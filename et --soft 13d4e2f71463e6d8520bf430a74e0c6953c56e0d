@@ -1,0 +1,68 @@
+[33mcommit d20b1b76ff65a280202e08fdc0e45944131976d6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m)[m
+Author: Patrick-Schuck <p.schuck-castle@t-online.de>
+Date:   Thu Jan 8 10:48:09 2026 +0100
+
+    J: Ooopsies!
+
+[33mcommit 13d4e2f71463e6d8520bf430a74e0c6953c56e0d[m
+Author: Patrick-Schuck <p.schuck-castle@t-online.de>
+Date:   Thu Jan 8 10:42:45 2026 +0100
+
+    I: second new quote
+
+[33mcommit b4d0aa13c1fac3b3de11b9b89594b1efadf1d9d0[m
+Author: Patrick-Schuck <p.schuck-castle@t-online.de>
+Date:   Thu Jan 8 10:42:03 2026 +0100
+
+    H: first new quote
+
+[33mcommit f8d7ba9473902546bef1f8df5fc97f10c74ca95c[m[33m ([m[1;32mmain[m[33m)[m
+Author: Patrick-Schuck <p.schuck-castle@t-online.de>
+Date:   Fri Dec 19 11:50:13 2025 +0100
+
+    G: Benjamins case
+
+[33mcommit 9b16be8a8f4842aa237debe653eabb3e947f8af3[m
+Merge: a056216 72e2df1
+Author: Patrick-Schuck <p.schuck-castle@t-online.de>
+Date:   Fri Dec 19 11:38:02 2025 +0100
+
+    F: Merge branch 'add_classics'
+    
+    Merge branch 'add_classics'
+
+[33mcommit a056216d592f8581e993860ecaba091a6cc78630[m
+Author: Patrick-Schuck <p.schuck-castle@t-online.de>
+Date:   Fri Dec 19 11:33:47 2025 +0100
+
+    E: content update
+
+[33mcommit 72e2df1316fcca814efdabf8f4bd00b02916ff17[m
+Author: Patrick-Schuck <p.schuck-castle@t-online.de>
+Date:   Fri Dec 19 11:20:08 2025 +0100
+
+    D: added classics
+
+[33mcommit db6af90482a80d5f5749552599e05e3674714eab[m
+Author: Patrick-Schuck <p.schuck-castle@t-online.de>
+Date:   Thu Dec 18 15:44:23 2025 +0100
+
+    C: moved quotes
+
+[33mcommit 2fa6060554f73c05643c00f647496485768f33dc[m
+Author: Patrick-Schuck <p.schuck-castle@t-online.de>
+Date:   Thu Dec 18 15:38:31 2025 +0100
+
+    C: add quotes
+
+[33mcommit 25c578fc2f86997a5c6d047262f677fc5cf7c81b[m
+Author: Patrick-Schuck <p.schuck-castle@t-online.de>
+Date:   Thu Dec 18 15:33:01 2025 +0100
+
+    B: add titles
+
+[33mcommit 3dd733860d145fde680bbcb8f4c76d3a9221300c[m
+Author: Patrick-Schuck <p.schuck-castle@t-online.de>
+Date:   Thu Dec 18 13:30:56 2025 +0100
+
+    A: add contents.md
